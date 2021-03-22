@@ -1,7 +1,7 @@
 var dbd = require('dbd.js')
 var fs = require('fs')
 var bot = new dbd.Bot({
-    token:"Tokeni Buraya Yazınız",
+    token:"NzkwMDI0MzcwNTQ5NTU1MjUw.X96lhw.2m_hdFO479d7fhljW2Met-1iE7w",
     prefix:"!"
 })
 bot.onMessage()
